@@ -1,4 +1,3 @@
-layout_spectrum: 0.07377358934417884
 typography_spectrum: 0.11947883685977005
 color:
   brandStrength: 0.2563805391592444
@@ -11,6 +10,11 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+github: true
+layout_spectrum: 0.07377358934417884
+author:
+  email: tampahomes@outlook.com
+  name: '6708 N Himes Ave, Tampa, FL 33614'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6315d83-617b-49c5-836a-c4c2f9c7c44d.png
 name: BluBay International Realty
@@ -26,6 +30,9 @@ navigation:
     type: external
   - name: Facebook Page
     url: 'https://www.facebook.com/BluBayRealty/'
+    type: external
+  - name: Get your Home Value
+    url: 'http://www.tampabayareahomelistings.com/homevalue/HomeEstimate'
     type: external
 favicon: null
 title: BlúBay International Realty
@@ -56,7 +63,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Tampa Bay Homes
 purpose: []
-github: true
-author:
-  email: tampahomes@outlook.com
-  name: '6708 N Himes Ave, Tampa, FL 33614'
