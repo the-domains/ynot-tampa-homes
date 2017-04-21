@@ -1,0 +1,62 @@
+layout_spectrum: 0.07377358934417884
+typography_spectrum: 0.11947883685977005
+color:
+  brandStrength: 0.2563805391592444
+  lightness: 0.03126718912080004
+  saturation: 0.41894615581111594
+  rhythmicContrast: 0.10564749027823679
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6315d83-617b-49c5-836a-c4c2f9c7c44d.png
+name: BluBay International Realty
+navigation:
+  - name: Buyers
+    url: 'http://www.tampabayareahomelistings.com/info/category/buyers'
+    type: external
+  - name: Sellers
+    url: 'http://www.tampabayareahomelistings.com/info/category/sellers'
+    type: external
+  - name: Search Homes
+    url: 'http://www.tampabayareahomelistings.com/search'
+    type: external
+  - name: Facebook Page
+    url: 'https://www.facebook.com/BluBayRealty/'
+    type: external
+favicon: null
+title: BlúBay International Realty
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5531e6-1df1-4182-959d-52287b99891b.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5531e6-1df1-4182-959d-52287b99891b.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Tampa Bay Homes
+purpose: []
+github: true
+author:
+  email: tampahomes@outlook.com
+  name: ''
