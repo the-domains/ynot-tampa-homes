@@ -23,14 +23,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.tampabayareahomelistings.com/homes/fl/tampa/myflrrest2865521204965911/1407-e-jean-st-tampa-fl-33604
 title: '1407 E Jean St, Tampa, FL 33604 Home for Sale | Tampa Bay Area Homes'
-datePublished: '2017-04-21T23:51:53.143Z'
-dateModified: '2017-04-21T23:51:24.285Z'
-datePublishedOriginal: '2017-04-21T23:51:53.143Z'
+datePublished: '2017-04-21T23:52:55.482Z'
+dateModified: '2017-04-21T23:52:55.255Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-04-21-1407-e-jean-st-tampa-fl-33604-home-for-sale-or-tampa-bay-ar.md
+starred: false
+datePublishedOriginal: '2017-04-21T23:51:53.143Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
