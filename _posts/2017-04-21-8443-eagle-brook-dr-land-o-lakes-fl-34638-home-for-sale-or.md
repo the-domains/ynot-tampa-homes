@@ -24,14 +24,14 @@ isBasedOnUrl: >-
 title: >-
   8443 Eagle Brook Dr, Land O Lakes, FL 34638 Home for Sale | Tampa Bay Area
   Homes
-datePublished: '2017-04-21T23:51:41.554Z'
-dateModified: '2017-04-21T23:50:48.588Z'
-datePublishedOriginal: '2017-04-21T23:51:41.554Z'
+datePublished: '2017-04-21T23:52:55.484Z'
+dateModified: '2017-04-21T23:52:55.255Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-04-21-8443-eagle-brook-dr-land-o-lakes-fl-34638-home-for-sale-or.md
+starred: false
+datePublishedOriginal: '2017-04-21T23:51:41.554Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
