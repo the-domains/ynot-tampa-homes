@@ -12,8 +12,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.tampabayareahomelistings.com/info/your-checklist-before-you-buy-your-next-home
 title: Featured Listings | Tampa Bay Area Homes
-datePublished: '2018-01-08T19:40:10.361Z'
-dateModified: '2018-01-08T19:40:09.936Z'
+datePublished: '2018-01-08T19:52:30.344Z'
+dateModified: '2018-01-08T19:52:29.970Z'
 via: {}
 inFeed: true
 sourcePath: >-
