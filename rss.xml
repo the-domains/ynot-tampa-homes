@@ -4,22 +4,22 @@
         <description><![CDATA[BluBay International Realty]]></description>
         <link>http://blubayrealty.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Jan 2018 20:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2018 20:48:23 GMT</lastBuildDate>
         <atom:link href="http://blubayrealty.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jan 2018 20:30:04 GMT</pubDate>
-        <item>
-            <title><![CDATA[FEATURED LISTINGS]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4ad5bf-a796-4110-90ff-2b3533ae9e7e.jpg" title="FEATURED LISTINGS" alt="BluBay International Realty">]]></description>
-            <link>https://www.tampabayareahomelistings.com/featured</link>
-            <guid isPermaLink="false">9a3871f0-584c-4028-a163-fb00e6f76feb</guid>
-            <pubDate>Mon, 08 Jan 2018 20:16:06 GMT</pubDate>
-        </item>
+        <pubDate>Mon, 08 Jan 2018 20:48:22 GMT</pubDate>
         <item>
             <title><![CDATA[THE TEAM]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5686a78-8882-460d-89a3-2c95bfcabac1.jpg" title="THE TEAM" alt="BluBay International Realty">,<article><h1>The Team </h1><p>BLUBAY INTERNATIONAL REALTY : Our Team of Expert Professionals</p></article>]]></description>
             <link>https://www.tampabayareahomelistings.com/about</link>
             <guid isPermaLink="false">0f559a71-0d38-4fc6-b5c8-88ee793a3852</guid>
             <pubDate>Mon, 08 Jan 2018 19:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FEATURED LISTINGS]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4ad5bf-a796-4110-90ff-2b3533ae9e7e.jpg" title="FEATURED LISTINGS" alt="BluBay International Realty">]]></description>
+            <link>https://www.tampabayareahomelistings.com/featured</link>
+            <guid isPermaLink="false">9a3871f0-584c-4028-a163-fb00e6f76feb</guid>
+            <pubDate>Mon, 08 Jan 2018 20:16:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
