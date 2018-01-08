@@ -33,9 +33,6 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/BluBayRealty/'
     type: external
-  - name: Get your Home Value
-    url: 'http://www.tampabayareahomelistings.com/homevalue/HomeEstimate'
-    type: external
 favicon: null
 title: BluBay International Realty
 content:
