@@ -19,8 +19,8 @@ description: 'BLUBAY INTERNATIONAL REALTY : Our Team of Expert Professionals'
 app_links: []
 isBasedOnUrl: 'https://www.tampabayareahomelistings.com/about'
 title: The Team | BluBay International Realty
-datePublished: '2018-01-08T20:22:57.786Z'
-dateModified: '2018-01-08T20:22:57.283Z'
+datePublished: '2018-01-08T20:26:14.234Z'
+dateModified: '2018-01-08T20:26:13.611Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-01-08-about-or-tampa-bay-area-homes.md
@@ -32,4 +32,4 @@ _type: MediaObject
 ---
 <article style=""><h1>The Team | BluBay International Realty</h1><p>BLUBAY INTERNATIONAL REALTY : Our Team of Expert Professionals</p></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5686a78-8882-460d-89a3-2c95bfcabac1.jpg)
+![BluBay International Realty](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5686a78-8882-460d-89a3-2c95bfcabac1.jpg)
