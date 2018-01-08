@@ -1,8 +1,8 @@
 ---
-description: FEATURED LISTINGS | BLUBAY INTERNATIONAL REALTY
+description: BluBay International Realty
 author: []
-datePublished: '2018-01-08T20:24:24.668Z'
-dateModified: '2018-01-08T20:24:24.058Z'
+datePublished: '2018-01-08T20:27:06.996Z'
+dateModified: '2018-01-08T20:27:06.531Z'
 title: FEATURED LISTINGS
 publisher: {}
 via: {}
@@ -16,7 +16,3 @@ _type: Article
 
 ---
 ![BluBay International Realty](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4ad5bf-a796-4110-90ff-2b3533ae9e7e.jpg)
-
-FEATURED LISTINGS | BLUBAY INTERNATIONAL REALTY
-
-https://www.tampabayareahomelistings.com/featured
