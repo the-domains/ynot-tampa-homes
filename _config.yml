@@ -24,6 +24,9 @@ navigation:
   - name: Sellers
     url: 'http://www.tampabayareahomelistings.com/info/category/sellers'
     type: external
+  - name: Our Team
+    url: 'https://www.tampabayareahomelistings.com/about'
+    type: external
   - name: Search Homes
     url: 'http://www.tampabayareahomelistings.com/search'
     type: external
@@ -32,9 +35,6 @@ navigation:
     type: external
   - name: Get your Home Value
     url: 'http://www.tampabayareahomelistings.com/homevalue/HomeEstimate'
-    type: external
-  - name: Our Team
-    url: 'https://www.tampabayareahomelistings.com/about'
     type: external
 favicon: null
 title: BluBay International Realty
