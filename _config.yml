@@ -1,17 +1,17 @@
-typography_spectrum: 0.1557944422703015
+layout_spectrum: 0.10481430858392085
+typography_spectrum: 0.8781304166060273
 color:
-  brandStrength: 0.8381541403957485
-  lightness: 0.05443379271609506
-  saturation: 0.8477188036284676
-  rhythmicContrast: 0.17621509407232008
+  brandStrength: 0.8830135899888223
+  lightness: 0.988051421285819
+  saturation: 0.0195459623170076
+  rhythmicContrast: 0.4826870482269269
   brandColors:
-    - '#FFFFFF'
-    - '#030B51'
-    - '#2C3638'
-    - '#FF0000'
-    - '#7A8181'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 github: true
-layout_spectrum: 0.5774167312791405
 author:
   email: tampahomes@outlook.com
   name: '4511 N Himes Ave, Suite 200, Tampa, Fl 33614'
