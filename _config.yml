@@ -1,17 +1,17 @@
-typography_spectrum: 0.11947883685977005
+layout_spectrum: 0.5774167312791405
+typography_spectrum: 0.1557944422703015
 color:
-  brandStrength: 0.2563805391592444
-  lightness: 0.03126718912080004
-  saturation: 0.41894615581111594
-  rhythmicContrast: 0.10564749027823679
+  brandStrength: 0.8381541403957485
+  lightness: 0.05443379271609506
+  saturation: 0.8477188036284676
+  rhythmicContrast: 0.17621509407232008
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#FFFFFF'
+    - '#030B51'
+    - '#2C3638'
+    - '#FF0000'
+    - '#7A8181'
 github: true
-layout_spectrum: 0.07377358934417884
 author:
   email: tampahomes@outlook.com
   name: '4511 N Himes Ave, Suite 200, Tampa, Fl 33614'
@@ -197,7 +197,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
