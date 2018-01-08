@@ -34,7 +34,7 @@ navigation:
     url: 'http://www.tampabayareahomelistings.com/homevalue/HomeEstimate'
     type: external
 favicon: null
-title: BlúBay International Realty
+title: BluBay International Realty
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
