@@ -14,8 +14,9 @@ color:
 github: true
 author:
   email: tampahomes@outlook.com
-  name: '4511 N Himes Ave, Suite 200, Tampa, Fl 33614'
-logo: null
+  name: '2202 N Westshore Blvd, Suite 200, Tampa, Fl 33607'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb1d7a6-52eb-433b-a7e0-f2b0699353d2.png
 name: BluBay International Realty
 navigation:
   - name: Buyers
