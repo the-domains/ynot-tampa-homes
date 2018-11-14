@@ -1,16 +1,16 @@
-layout_spectrum: 0.10481430858392085
-typography_spectrum: 0.8781304166060273
+layout_spectrum: 0.8254319071154672
+typography_spectrum: 0.7304154170798783
 color:
-  brandStrength: 0.8830135899888223
-  lightness: 0.988051421285819
-  saturation: 0.0195459623170076
-  rhythmicContrast: 0.4826870482269269
+  brandStrength: 0.482011868980538
+  lightness: 0.5789113692946658
+  saturation: 0.8717284826389375
+  rhythmicContrast: 0.8466990608598409
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#FCFEFF'
+    - '#333B57'
+    - '#C7C7D1'
+    - '#EC1F25'
+    - '#EF6556'
 github: true
 author:
   email: tampahomes@outlook.com
@@ -54,7 +54,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
