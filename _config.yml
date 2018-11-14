@@ -19,14 +19,14 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb1d7a6-52eb-433b-a7e0-f2b0699353d2.png
 name: BluBay International Realty
 navigation:
+  - name: Search for your Perfect Home
+    url: 'https://www.tampabayareahomelistings.com/search'
+    type: external
   - name: Our Team
     url: 'https://www.tampabayareahomelistings.com/about'
     type: external
   - name: Facebook Page
     url: 'https://www.facebook.com/BluBayRealty/'
-    type: external
-  - name: Search for your Perfect Home
-    url: 'https://www.tampabayareahomelistings.com/search'
     type: external
   - name: Selling? Value your home here
     url: 'https://www.tampabayareahomelistings.com/homevalue/HomeEstimate'
