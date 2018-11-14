@@ -1,4 +1,3 @@
-layout_spectrum: 0.8254319071154672
 typography_spectrum: 0.7304154170798783
 color:
   brandStrength: 0.482011868980538
@@ -12,6 +11,7 @@ color:
     - '#EC1F25'
     - '#EF6556'
 github: true
+layout_spectrum: 0.8254319071154672
 author:
   email: tampahomes@outlook.com
   name: '2202 N Westshore Blvd, Suite 200, Tampa, Fl 33607'
@@ -34,6 +34,9 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/BluBayRealty/'
     type: external
+  - name: Search for your Perfect Home
+    url: 'https://www.tampabayareahomelistings.com/search'
+    type: external
 favicon: null
 title: BluBay International Realty
 content:
@@ -45,19 +48,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/2958b7c1-47d2-4459-8925-50eb02bd50cd.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
