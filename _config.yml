@@ -19,9 +19,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb1d7a6-52eb-433b-a7e0-f2b0699353d2.png
 name: BluBay International Realty
 navigation:
-  - name: Buyers
-    url: 'http://www.tampabayareahomelistings.com/info/category/buyers'
-    type: external
   - name: Sellers
     url: 'http://www.tampabayareahomelistings.com/info/category/sellers'
     type: external
