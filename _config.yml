@@ -34,6 +34,9 @@ navigation:
   - name: Search for your Perfect Home
     url: 'https://www.tampabayareahomelistings.com/search'
     type: external
+  - name: Selling? Value your home here
+    url: 'https://www.tampabayareahomelistings.com/homevalue/HomeEstimate'
+    type: external
 favicon: null
 title: BluBay International Realty
 content:
