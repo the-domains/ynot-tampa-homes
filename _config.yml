@@ -22,9 +22,6 @@ navigation:
   - name: Our Team
     url: 'https://www.tampabayareahomelistings.com/about'
     type: external
-  - name: Search Homes
-    url: 'http://www.tampabayareahomelistings.com/search'
-    type: external
   - name: Facebook Page
     url: 'https://www.facebook.com/BluBayRealty/'
     type: external
